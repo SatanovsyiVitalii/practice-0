@@ -151,5 +151,4 @@ export default createStore(
 
 - Проверить результат
 
-<!-- ![alt text]("./assets/Redux dev tools.png") -->
-[logo]: ./assets/redux-dev-tools.png "Logo Title Text 2"
+![alt text](redux-dev-tools.png "Title")
